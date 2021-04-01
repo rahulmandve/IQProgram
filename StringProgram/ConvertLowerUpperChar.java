@@ -1,7 +1,7 @@
 package StringProgram;
 
 import java.util.Scanner;
-
+//
 public class ConvertLowerUpperChar {
 	
 	public String data(String s)
